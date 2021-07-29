@@ -2,7 +2,7 @@
 """
 Created on Thu Apr  9 12:15:56 2020
 
-@author: Nikolas N Aguilar
+Nikolas N Aguilar
 """
 from random import random
 import matplotlib.pyplot as plt
